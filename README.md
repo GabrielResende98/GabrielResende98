@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel
 ===============================================================================================================================
 
-Futuro Desenvolvedor Front-End
+Estudando back-end
 ------------------------------
 
 Estou aprendendo a codificar faz alguns meses, aprendendo sobre HTML CSS e JavaScript, pretendo seguir na área de desenvolvedor front-end.
