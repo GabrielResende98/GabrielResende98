@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel
 ===============================================================================================================================
 
-Estudando back-end
+Estudando defesa cibernética
 ------------------------------
 
-Estou aprendendo a codificar faz alguns meses, aprendendo sobre HTML CSS e JavaScript, pretendo seguir na área de desenvolvedor front-end.
+Estou aprendendo sobre Cibersegurança faz alguns meses, desenvolvendo conhecimentos sobre redes e arquitetura de computadores, pretendo seguir na área de segurança da informação.
 
 * 🌍  I'm based in São Paulo
 * 🖥️  See my portfolio at [GabrielResende98](http://https://github.com/GabrielResende98)
 * ✉️  You can contact me at [gabrielsilvaresende11@gmail.com](mailto:gabrielsilvaresende11@gmail.com)
-* 🧠  I'm learning Lógica de programação
+* 👨🏽‍💻  I'm learning CyberSecurity
 
 ### Skills
 
